@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SbRotina",
+    "\\SbRotina\\Data",
+    "\\SbRotina\\Data\\Map",
+    "\\SbRotina\\Enums",
+    "\\SbRotina\\Migrations",
+    "\\SbRotina\\Models",
+    "\\SbRotina\\obj",
+    "\\SbRotina\\Properties",
+    "\\SbRotina\\Repositorio",
+    "\\SbRotina\\Repositorio\\Interfaces"
+  ],
+  "SelectedNode": "\\SbRotina\\Repositorio\\TarefaRepositorio.cs",
+  "PreviewInSolutionExplorer": false
+}
